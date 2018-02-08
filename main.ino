@@ -5,7 +5,7 @@
 #define LED_GREEN_TWO 10
 #define LED_GREEN_THREE 11
 #define POTENTIOMETER 0
-#define TASTER 2
+#define BUTTON 2
 
 /*
  * flags[0]: first LED group
